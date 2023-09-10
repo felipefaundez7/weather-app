@@ -5,7 +5,7 @@ import MiApi from './components/MiApi';
 function App() {
   return (
     <div>
-      <h1>Openweather API</h1>
+      <h1>OpenWeatherMap API</h1>
       <MiApi />
     </div>
   )
